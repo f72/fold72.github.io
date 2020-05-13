@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+name:f72
+
 # Where things are
 source              : .
 destination         : ./_site
